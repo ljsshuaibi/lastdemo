@@ -4,5 +4,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!");
         System.out.println("Hello world1!");
+        dog s = new dog();
+        System.out.println(s.a);
+
     }
 }
